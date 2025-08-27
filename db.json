@@ -15,11 +15,6 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
       "userId": 1,
       "title": "Refined Bronze Towels",
       "id": 11
@@ -28,6 +23,31 @@
       "userId": 1,
       "title": "Bespoke Steel Shirt",
       "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Practical Steel Car",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Small Soft Table",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "title": "Electronic Bronze Computer",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Frozen Fish",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Frozen Salad",
+      "id": 17
     }
   ],
   "photos": []
